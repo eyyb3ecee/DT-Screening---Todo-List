@@ -13,6 +13,7 @@ To-Do List web application
 6. I created the features one by one according to the stipulations.
 7. Double checked everything before pushing a commit to Git.
 8. Made systematic updates through the commit section and then finalized everything with a Quality Assurance mindset.
+9. Lastly I finished the whole project from setting up the files up to the github repository with the time of 1hr and 7mins.
 
 This is all for this project.
 
